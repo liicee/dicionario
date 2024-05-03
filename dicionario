@@ -1,0 +1,4 @@
+dicionario = {"People":"Pessoa","Star":"estrela","wanna":"quero","beautiful":"bonito", "always":"sempre","tipe":"mare","flower":"flor","cherry":"cereja","bus":"onibus","heat":"coração","toy":"brinquedo","spider":"aranha","frame":"quadro","blower":"ventilador","darling":"querido","fancy":"chique","army":"exercito","paper":"papel"}
+
+for chave, valor in dicionario.items():
+    print (f"Chave: {chave}, Valor: {valor}")
